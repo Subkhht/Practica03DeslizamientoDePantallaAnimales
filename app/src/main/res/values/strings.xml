@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica03</string>
+    <string name="animal">Animal</string>
+    <string name="alimentaci_n">Alimentación</string>
+    <string name="reproduci_n">Reprodución</string>
+    <string name="tipo_alim">tipo_alim</string>
+    <string name="vivip_o_ovip">vivip_o_ovip</string>
+</resources>
